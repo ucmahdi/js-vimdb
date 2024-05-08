@@ -135,7 +135,7 @@ export default class Imdb {
      *
      * ```typescript
      * // Get information about the actress "Scarlett Johansson"
-     * imdb.getShow('nm0424060')
+     * imdb.getPerson('nm0424060')
      *     .then(console.log)
      * ```
      *
